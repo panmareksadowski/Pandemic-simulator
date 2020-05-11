@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/MapArea.qml</file>
+        <file>qml/OptionsColumn.qml</file>
+        <file>qml/MainArea.qml</file>
+        <file>qml/AllStatisticsChart.qml</file>
+        <file>qml/RectangleP1P2.qml</file>
+        <file>qml/StatisticsChart.qml</file>
+        <file>qml/StatisticInfo.qml</file>
+        <file>qml/ControlBar.qml</file>
+        <file>qml/StatisticsColumn.qml</file>
+        <file>qml/StatisticsBar.qml</file>
+        <file>qml/AboutDialog.qml</file>
+    </qresource>
+</RCC>
